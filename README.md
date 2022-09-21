@@ -34,4 +34,4 @@
   ##
  
 
- ![Snake animation](https://github.com/rafaballerini/Alangdp/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Alangdp/blob/output/github-contribution-grid-snake.svg)
