@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente não trabalho, estou numa transição de carreira
-- 🌱 Eutudando Python,Javascript,Html e css
+- 🌱 Eutudando Python,Javascript, Java,Html e css
 - 💬 Contato: https://www.linkedin.com/in/álan-gabriel-dias-pedon-0a561a199/
 
 <div align="center">
