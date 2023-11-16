@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Oi,eu+sou+o+Álan+:%29)](https://git.io/typing-svg)
 
 - Cursando técnico
-- Tenho 17 anos
+- Tenho 18 anos
 - Desenvolvendo site que auxilia em investimentos
 
 <div align="center">
