@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Oi,eu+sou+o+Álan+:%29)](https://git.io/typing-svg)
 
-- Cursando Ciências da compoutação
+- Cursando Ciências da computação
 - Tenho 19 anos
 - Desenvolvendo site que auxilia em investimentos
 
@@ -34,8 +34,6 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
 
 ## Pode me contatar em:
 
