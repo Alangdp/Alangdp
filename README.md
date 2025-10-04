@@ -1,45 +1,74 @@
+<br clear="both">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=133467&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Oi,eu+sou+o+Álan+:%29)](https://git.io/typing-svg)
-
-- Cursando Ciências da computação
-- Tenho 19 anos
-- Desenvolvendo site que auxilia em investimentos
-
-<div align="center">
-  <a href="https://github.com/Alangdp">
-    <img width="49%" height="200x" src="https://github-readme-stats.vercel.app/api?username=Alangdp&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alangdp&layout=compact&langs_count=7&theme=dark&hide_border=true" />
-  </a>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Oi,%20eu%20sou%20o%20%C3%81lan%20:)&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=70&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
-<div align="center" style="border-radius: 8px; overflow: hidden;">
-  <img style="border-radius: 8px;" src="https://github-readme-activity-graph.vercel.app/graph?username=Alangdp&bg_color=1A1A1A&color=CCCCCC&line=CCCCCC&point=888888&area=true&hide_border=true" alt="Github Activity Graph" style="border-radius: 8px;">
+**`Desenvolvedor Backend`**
+
+Me chamo Álan, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o técnico em Informática na IENH e atualmente curso Ciência da Computação na Universidade Feevale. Atualmente trabalho com Cobol e Java, mas já atuei como desenvolvedor fullstack, utilizando Java, TypeScript e outras tecnologias.
+
+###
+
+<p align="left">✨ Criando bugs desde 2021<br>📚 Atualmente estudando Java e Springboot<br>🎯 Objetivo: Me tornar um desenvolvedor senior <br>🎲 Curiosidade: Gosto de analisar economia e investir em ações</p>
+
+###
+
+<h2 align="left">💻 Me viro bem com</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
+### 📊 Estatísticas
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Alangdp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alangdp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"  
+  />
+</p>
 
-## Tenho experiência em:
- ### Habilidades principais:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=F24C3D&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp; 
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+<br clear="both">
 
-
-### Estudando no momento:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-## Pode me contatar em:
-
-<div style="margin-top: 1rem"> 
-  <a href="https://instagram.com/alan_dias__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alangabrieldias@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/alan-gabriel-dias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/placeholder/placeholder/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/placeholder/placeholder/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/placeholder/placeholder/output/pacman-contribution-graph.svg">
+</picture>
